@@ -1,6 +1,6 @@
 # OIBSIP_Python_Task-3 - Random Password Generator
 
-This is a Python application that generates strong, random passwords. It offers both a command-line interface (CLI) for quick password generation and a full graphical user interface (GUI) with more advanced options.
+This is a Python application that generates strong, random passwords. It offers both a command-line interface (CLI) for quick password generation and a full graphical user interface (GUI) with more advanced options
 
 ## Features
 
